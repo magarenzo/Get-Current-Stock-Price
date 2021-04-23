@@ -10,4 +10,4 @@ while True:
         print("No data found, symbol may be delisted.")
 
 # Print
-print("\nThe current live price of stock " + str.upper(ticker) + " is $" + price + ".")
+print("\nThe current live price of stock $" + str.upper(ticker) + " is $" + price + ".")
