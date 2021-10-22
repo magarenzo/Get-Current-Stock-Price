@@ -14,4 +14,4 @@ Prompts for the stock ticker and prints its current live price.
 
 ## Owner
 
-[Michael A.](https://linkedin.com/in/magarenzo)
+[Michael Agarenzo](https://linkedin.com/in/magarenzo)
